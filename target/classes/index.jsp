@@ -4,5 +4,9 @@
 <p> in this app we are going to deploy manually </p>
 
 <a href ='about.jsp'>About Page</a>
+
+<p> Auto deploy using jenkins </p>
+<a href ='deployed.jsp'>Deployed</a>
+
 </body>
 </html>
