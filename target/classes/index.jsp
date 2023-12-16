@@ -7,6 +7,7 @@
 
 <p> Auto deploy using jenkins </p>
 <a href ='deployed.jsp'>Deployed</a>
+<p> Deploy using jenkins </p>
 
 </body>
 </html>
